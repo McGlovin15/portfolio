@@ -1,5 +1,5 @@
 site:
-  title: Joel Glover
+  title: Joel Glover // portfolio
   start_page: docs/welcome.adoc
 content:
   sources: 
