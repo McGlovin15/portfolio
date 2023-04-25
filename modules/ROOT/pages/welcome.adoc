@@ -18,6 +18,7 @@ medical simulation, microscopy, lasers and physics.
 * MadCap Flare
 * Rhino
 * Inkscape
+* Git
 
 == Skills
 
