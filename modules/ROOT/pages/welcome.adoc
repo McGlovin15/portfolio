@@ -7,22 +7,20 @@ computer aided designer with a background in automotive
 mechanics, robotics, motion control, additive manufacturing,
 medical simulation, microscopy, lasers and physics.
 
-== Programming
+== Skills
+
+=== Programming
 * C#
 * Java
 * Python
 
-== Software
+=== Software
 
 * Autodesk Fusion 360
 * MadCap Flare
 * Rhino
 * Inkscape
 * Git
-
-== Skills
-
-
 
 == Work experience
 
