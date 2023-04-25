@@ -1,0 +1,10 @@
+name: portfolio
+title: Joel Glover
+version: 1.0.0
+start_page: welcome.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- docs/ROOT/nav.adoc
