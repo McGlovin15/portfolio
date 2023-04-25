@@ -25,8 +25,15 @@ medical simulation, microscopy, lasers and physics.
 
 == Work experience
 
+*Technical Writer - Advanced Metering* | Schneider Electric
 
-**Application Scientist** | Polaris Motion
+November 2022 -> Current
+
+* Documentation stuffs
+
+
+
+*Application Scientist* | Polaris Motion
 
 October 2021 -> September 2022
 
@@ -36,7 +43,7 @@ engineering.
 * Direct customer communications and technical documentation/knowledge base improvements.
 * Maintained Laser CNC equipment, CAD work for machine upgrades and suggesting software/electrical-hardware improvements to products based on experimentation and customer feedback.
 
-**Instrumentation Specialist** | Live Cell Imaging Laboratory
+*Instrumentation Specialist* | Live Cell Imaging Laboratory
 
 May 2016 -> July 2021
 
