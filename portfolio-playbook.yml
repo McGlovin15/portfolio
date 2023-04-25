@@ -1,5 +1,5 @@
 site:
-  title: My Portfolio
+  title: Joel Glover // portfolio
   start_page: docs/welcome.adoc
   nav:
     - modules/ROOT/pages/docs/
@@ -9,7 +9,7 @@ content:
   sources:
     - url: https://github.com/McGlovin15/portfolio.git
       branches: main
-      start_path: src/
+      start_path: docs/
       end_path: .adoc
 #      credentials:
 #        username: McGlovin15

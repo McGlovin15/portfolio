@@ -1,9 +1,9 @@
 site:
   title: Joel Glover
-  start_page: src::about-me.adoc 
+  start_page: docs/welcome.adoc
 content:
   sources: 
-  - url: https://github.com/McGlovin15/portfolio
+  - url: https://github.com/McGlovin15/portfolio.git
     branches: main
 ui: 
   bundle:
