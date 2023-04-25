@@ -7,18 +7,20 @@ computer aided designer with a background in automotive
 mechanics, robotics, motion control, additive manufacturing,
 medical simulation, microscopy, lasers and physics.
 
-== Skills
-
-=== Programming
+== Programming
 * C#
 * Java
 * Python
 
-=== Software
+== Software
 
 * Autodesk Fusion 360
 * MadCap Flare
-*
+* Rhino
+* Inkscape
+
+== Skills
+
 
 
 == Work experience
@@ -38,21 +40,24 @@ engineering.
 
 May 2016 -> July 2021
 
-Responsible for maintaining, troubleshooting and
+* Responsible for maintaining, troubleshooting and
 repairing all instruments/computers within the
 8,000 square foot facility and managing the 3D
-printing lab. I provided design services to
+printing lab. 
+* I provided design services to
 researchers for custom experimental devices and
 taught Masters courses on design, 3D-printing
 and creating prototypes for startups.
 
 == Education
-2014-2020 | University of Calgary 
+**Bachelor of Science in Physics** | University of Calgary
 
-Bachelor of Science, Physics
+September 2014 -> February 2020
 
 == Publications
 
 == Awards
 
-Hello here is some text.
+> *GRC Initiative Award*
+> 
+> Recognition of students who have improved the UCalgary graduate student experience
