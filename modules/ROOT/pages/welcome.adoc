@@ -56,7 +56,7 @@ September 2014 -> February 2020
 
 == Publications
 
-$$^1$$ Duong, K., Glover, J., Perry, A. C., Olmstead, D., Ungrin, M.,
+Duong, K., Glover, J., Perry, A. C., Olmstead, D., Ungrin, M.,
 Colarusso, P., ... & Martin, A. R. (2021). Feasibility of three-
 dimensional facial imaging and printing for producing
 customised nasal masks for continuous positive airway
