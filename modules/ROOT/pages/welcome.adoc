@@ -1,6 +1,9 @@
 = Resume
-
+[.float-group]
+--
+[.left]
 image::HS-Circ-25DPI.png[alt= Headshot of Joel Glover, 115, float="left", align="center"]
+--
 
 == About me
 
