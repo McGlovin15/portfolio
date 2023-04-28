@@ -1,6 +1,8 @@
-= Resume 
+= Joel's resume 
 
 == About me
+
+image::images/HS-Circ-25DPI.png[]
 
 A creative problem solver, technical communicator and computer aided designer with a background in automotive mechanics, robotics, motion control, additive manufacturing,medical simulation, microscopy, lasers and physics.
 
