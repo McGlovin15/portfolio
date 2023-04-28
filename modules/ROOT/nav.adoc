@@ -1,3 +1,4 @@
 * xref:welcome.adoc[]
+* xref:resume.adoc[]
 * Writing samples
 ** xref:example1/an-example.adoc[]
