@@ -1,11 +1,8 @@
-= Joel Glover 
+= Test 
 
 == About me
 
-A creative problem solver, technical communicator and
-computer aided designer with a background in automotive
-mechanics, robotics, motion control, additive manufacturing,
-medical simulation, microscopy, lasers and physics.
+A creative problem solver, technical communicator and computer aided designer with a background in automotive mechanics, robotics, motion control, additive manufacturing,medical simulation, microscopy, lasers and physics.
 
 == Skills
 
@@ -13,6 +10,9 @@ medical simulation, microscopy, lasers and physics.
 * C#
 * Java
 * Python
+* HTML
+* CSS 
+* JavaScript
 
 === Software
 
@@ -62,11 +62,11 @@ September 2014 -> February 2020
 
 == Publications
 
-Duong, K., Glover, J., Perry, A. C., Olmstead, D., Ungrin, M.,
-Colarusso, P., ... & Martin, A. R. (2021). Feasibility of three-
-dimensional facial imaging and printing for producing
-customised nasal masks for continuous positive airway
-pressure. ERJ Open Research, 7(1).
+Cavin, Jean‐Baptiste, Preedajit Wongkrasant, Joel B. Glover, Onesmo B. Balemba, Wallace K. MacNaughton, and Keith A. Sharkey. "Intestinal distension orchestrates neuronal activity in the enteric nervous system of adult mice." The Journal of Physiology 601, no. 7 (2023): 1183-1206.
+
+Duong, Kelvin, Joel Glover, Alexander C. Perry, Deborah Olmstead, Mark Ungrin, Pina Colarusso, Joanna E. MacLean, and Andrew R. Martin. "Feasibility of three-dimensional facial imaging and printing for producing customised nasal masks for continuous positive airway pressure." ERJ Open Research 7, no. 1 (2021).
+
+Cavin, Jean‐Baptiste, Joel Glover, Wallace K. MacNaughton, and Keith A. Sharkey. "Intraluminal Nutrients Modulate Intracellular Calcium Activity in the Enteric Nervous System of Adult Mice." The FASEB Journal 33, no. S1 (2019): 858-1.
 
 == Awards
 
