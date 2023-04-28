@@ -1,6 +1,6 @@
 = Resume
 
-image:HS-Circ-25DPI.png[alt= Headshot of Joel Glover, 100, float=right] 
+image:HS-Circ-25DPI.png[alt= Headshot of Joel Glover, 125, float=right] 
 
 == About me
 
