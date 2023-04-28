@@ -2,7 +2,7 @@
 
 == About me
 
-image::HS-Circ-25DPI.png[alt= Headshot of Joel Glover, 250, float="left", align="center"]
+image::HS-Circ-25DPI.png[alt= Headshot of Joel Glover, 125, float="left", align="center"]
 
 A creative problem solver, technical communicator and computer aided designer with a background in automotive mechanics, robotics, motion control, additive manufacturing,medical simulation, microscopy, lasers and physics.
 
