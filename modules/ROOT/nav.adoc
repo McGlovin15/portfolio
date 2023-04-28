@@ -1,3 +1,5 @@
 * xref:welcome.adoc[]
 * Writing samples
 ** xref:writing-samples/an-example.adoc[]
+* Design samples
+* Reference
