@@ -1,6 +1,79 @@
-= Welcome
+= Resume 
 
 == About me
 
 A creative problem solver, technical communicator and computer aided designer with a background in automotive mechanics, robotics, motion control, additive manufacturing,medical simulation, microscopy, lasers and physics.
 
+== Skills
+
+=== Programming
+* C#
+* Java
+* Python
+* HTML
+* CSS 
+* JavaScript
+
+=== Software
+
+* Autodesk Fusion 360
+* MadCap Flare
+* Rhino
+* Inkscape
+* Git
+
+== Work experience
+
+*Technical Writer - Advanced Metering* | Schneider Electric
+
+November 2022 -> Current
+
+* Documentation stuffs
+
+
+
+*Application Scientist* | Polaris Motion
+
+October 2021 -> September 2022
+
+* Team lead of technical support and application
+engineering.
+* Leveraged my communication and troubleshooting skills to provide an excellent customer experience.
+* Direct customer communications and technical documentation/knowledge base improvements.
+* Maintained Laser CNC equipment, CAD work for machine upgrades and suggesting software/electrical-hardware improvements to products based on experimentation and customer feedback.
+
+*Instrumentation Specialist* | Live Cell Imaging Laboratory
+
+May 2016 -> July 2021
+
+* Responsible for maintaining, troubleshooting and
+repairing all instruments/computers within the
+8,000 square foot facility and managing the 3D
+printing lab. 
+* I provided design services to
+researchers for custom experimental devices and
+taught Masters courses on design, 3D-printing
+and creating prototypes for startups.
+
+== Education
+**Bachelor of Science in Physics** | University of Calgary
+
+September 2014 -> February 2020
+
+== Publications
+
+* Cavin, Jean‐Baptiste, Preedajit Wongkrasant, Joel B. Glover, Onesmo B. Balemba, Wallace K. MacNaughton, and Keith A. Sharkey. "Intestinal distension orchestrates neuronal activity in the enteric nervous system of adult mice." _The Journal of Physiology 601_, no. 7 (2023): 1183-1206.
+
+* Duong, Kelvin, Joel Glover, Alexander C. Perry, Deborah Olmstead, Mark Ungrin, Pina Colarusso, Joanna E. MacLean, and Andrew R. Martin. "Feasibility of three-dimensional facial imaging and printing for producing customised nasal masks for continuous positive airway pressure." _ERJ Open Research_ 7, no. 1 (2021).
+
+* Cavin, Jean‐Baptiste, Joel Glover, Wallace K. MacNaughton, and Keith A. Sharkey. "Intraluminal Nutrients Modulate Intracellular Calcium Activity in the Enteric Nervous System of Adult Mice." _The FASEB Journal_ 33, no. S1 (2019): 858-1.
+
+== Awards
+
+> *GRC Initiative Award*
+> 
+> Recognition of students who have improved the UCalgary graduate student experience
+
+> *Dean's List*
+> 
+> Named to the 2016 Faculty of Science Dean's List
