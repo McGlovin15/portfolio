@@ -10,10 +10,12 @@ A creative problem solver, technical communicator and computer aided designer wi
 == Skills and tools
 
 * *Authoring*: MadCap Flare, LaTeX, Asciidoc, Antora, Markdown, Docs as Code
-* *Design*: Autodesk Fusion 360, Inkscape, Rhino
 * *Programming*: C#, Java, HTML, CSS 
+* *Design*: Autodesk Fusion 360, Inkscape, Rhino
 , Python, JavaScript
 * *Version control*: Git, Git CLI, Team Foundation Version Control, Mercurial
+* *Issue tracking*: Jira, Azure DevOps, Digital.ai
+* *Soft skills*: Communication, collaboration, leadership, customer relations, conflict resolution
 
 
 == Work experience
@@ -22,7 +24,10 @@ A creative problem solver, technical communicator and computer aided designer wi
 
 November 2022 -> Current
 
-* Documentation stuffs
+* Developed and maintained user manuals and technical documentation for advanced power meter products using MadCap Flare.
+* Used my progamming abilities to create tools that accelerated the team's abilitiy to produce content.
+* Chaired meetings and played a pivotal role in enhancing standardization across all documentation, resulting in improved consistency and clarity of information.
+* Conducted in-depth research on usability studies to enhance the quality of documentation and provide an exceptional customer experience.
 
 
 
