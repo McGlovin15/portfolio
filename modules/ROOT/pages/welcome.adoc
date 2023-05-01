@@ -5,7 +5,7 @@ image:HS-Circ-25DPI.png[alt= Headshot of Joel Glover, 125, float=right]
 == About me
 
 [sidebar]
-A creative problem solver, technical communicator and computer aided designer with a background in motion control, additive manufacturing, robotics, electrical power metering, medical simulation, microscopy, lasers, and physics.
+A creative problem solver, technical communicator and computer aided designer with a background in motion control, additive manufacturing, robotics, electrical power metering, medical simulation, microscopy, and lasers.
 
 == Skills and tools
 
