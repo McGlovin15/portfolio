@@ -22,7 +22,7 @@ A creative problem solver, technical communicator and computer aided designer wi
 
 *Technical Writer* | Schneider Electric
 
-image:calendar.png[] November 2022 -> Current
+November 2022 -> Current
 
 * Developed and maintained user manuals and technical documentation for advanced power meter products using MadCap Flare.
 * Used my progamming abilities to create tools that accelerated the team's abilitiy to produce content.
