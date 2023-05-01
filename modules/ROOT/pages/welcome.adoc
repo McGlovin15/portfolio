@@ -10,9 +10,9 @@ A creative problem solver, technical communicator and computer aided designer wi
 == Skills and tools
 
 * *Authoring*: MadCap Flare, LaTeX, Asciidoc, Antora, Markdown
+* *Design*: Autodesk Fusion 360, Inkscape, Rhino
 * *Programming*: C#, Java, HTML, CSS 
 , Python, JavaScript
-* *Design*: Autodesk Fusion 360, Inkscape, Rhino
 * *Version control*: Git, Git CLI, Team Foundation Version Control, Mercurial
 
 
@@ -62,12 +62,15 @@ September 2014 -> February 2020
 
 * Cavin, Jean‐Baptiste, Joel Glover, Wallace K. MacNaughton, and Keith A. Sharkey. "Intraluminal Nutrients Modulate Intracellular Calcium Activity in the Enteric Nervous System of Adult Mice." _The FASEB Journal_ 33, no. S1 (2019): 858-1.
 
+
 == Awards
+[%collapsible]
+====
+*GRC Initiative Award*
 
-> *GRC Initiative Award*
-> 
-> Recognition of students who have improved the UCalgary graduate student experience
+Recognition of students who have improved the UCalgary graduate student experience
 
-> *Dean's List*
-> 
-> Named to the 2016 Faculty of Science Dean's List
+*Dean's List*
+ 
+Named to the 2016 Faculty of Science Dean's List
+====
