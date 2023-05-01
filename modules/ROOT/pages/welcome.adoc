@@ -10,9 +10,8 @@ A creative problem solver, technical communicator and computer aided designer wi
 == Skills and tools
 
 * *Authoring*: MadCap Flare, LaTeX, Asciidoc, Antora, Markdown, Docs as Code, style guide adherence
-* *Programming*: C#, Java, HTML, CSS 
+* *Programming*: C#, Java, Python, HTML, CSS, JavaScript
 * *Design*: Autodesk Fusion 360, Inkscape, Rhino
-, Python, JavaScript
 * *Version control*: Git, Git CLI, Team Foundation Version Control, Mercurial
 * *Issue tracking*: Jira, Azure DevOps, Digital.ai
 * *Soft skills*: Communication, collaboration, leadership, customer relations, conflict resolution
