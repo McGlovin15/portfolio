@@ -9,7 +9,7 @@ A creative problem solver, technical communicator and computer aided designer wi
 
 == Skills and tools
 
-* *Authoring*: MadCap Flare, LaTeX, Asciidoc, Antora, Markdown
+* *Authoring*: MadCap Flare, LaTeX, Asciidoc, Antora, Markdown, Docs as Code
 * *Design*: Autodesk Fusion 360, Inkscape, Rhino
 * *Programming*: C#, Java, HTML, CSS 
 , Python, JavaScript
@@ -18,7 +18,7 @@ A creative problem solver, technical communicator and computer aided designer wi
 
 == Work experience
 
-*Technical Writer - Advanced Metering* | Schneider Electric
+*Technical Writer* | Schneider Electric
 
 November 2022 -> Current
 
