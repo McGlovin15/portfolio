@@ -9,7 +9,7 @@ A creative problem solver, technical communicator and computer aided designer wi
 
 == Skills and tools
 
-* *Authoring*: MadCap Flare, LaTeX, Asciidoc, Antora, Markdown, Docs as Code
+* *Authoring*: MadCap Flare, LaTeX, Asciidoc, Antora, Markdown, Docs as Code, Style guide adherence
 * *Programming*: C#, Java, HTML, CSS 
 * *Design*: Autodesk Fusion 360, Inkscape, Rhino
 , Python, JavaScript
