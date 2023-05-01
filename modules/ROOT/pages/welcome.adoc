@@ -39,7 +39,7 @@ October 2021 -> September 2022
 engineering activies.
 * Leveraged my communication and troubleshooting skills to provide an excellent customer experience.
 * Provided customer support and contributed to the improvement of technical documentation and knowledge base, resulting in enhanced customer satisfaction and reduced customer support inquiries.
-* Performed upkeep and maintenance of Laser CNC equipment, utilizing CAD software for machine upgrades.
+* Performed upkeep and maintenance of laser CNC equipment, utilizing CAD software for machine upgrades.
 * Leveraged experimentation and customer feedback to recommend improvements to software and electrical hardware components of products.
 
 *Instrumentation Specialist* | Live Cell Imaging Laboratory
@@ -65,8 +65,7 @@ September 2014 -> February 2020
 
 
 == Awards
-[%collapsible]
-====
+
 *GRC Initiative Award*
 
 Recognition of students who have improved the UCalgary graduate student experience
@@ -74,4 +73,3 @@ Recognition of students who have improved the UCalgary graduate student experien
 *Dean's List*
  
 Named to the 2016 Faculty of Science Dean's List
-====
