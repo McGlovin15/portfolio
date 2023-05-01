@@ -7,23 +7,14 @@ image:HS-Circ-25DPI.png[alt= Headshot of Joel Glover, 125, float=right]
 [sidebar]
 A creative problem solver, technical communicator and computer aided designer with a background in automotive mechanics, robotics, motion control, additive manufacturing, medical simulation, microscopy, lasers, and physics.
 
-== Skills
+== Skills and tools
 
-=== Programming
-* C#
-* Java
-* Python
-* HTML
-* CSS 
-* JavaScript
+* *Authoring*: MadCap Flare, LaTeX, Asciidoc, Antora, Markdown
+* *Programming*: C#, Java, HTML, CSS 
+, Python, JavaScript
+* *Design*: Autodesk Fusion 360, Inkscape, Rhino
+* *Version control*: Git, Git CLI, Team Foundation Version Control, Mercurial
 
-=== Software
-
-* Autodesk Fusion 360
-* MadCap Flare
-* Rhino
-* Inkscape
-* Git
 
 == Work experience
 
